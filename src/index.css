@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --animate-spin-slow: spin 3s linear infinite;
+}
+
+@utility animation-delay-500 {
+  animation-delay: 500ms;
+}
